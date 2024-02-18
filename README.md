@@ -1,2 +1,3 @@
 # mycollege-demo
-This is my first repositary for my college.
+This is the first repositary for my college.
+Author-Prajita Timilsina
